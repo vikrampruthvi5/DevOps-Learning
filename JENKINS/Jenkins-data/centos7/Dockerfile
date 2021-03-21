@@ -4,7 +4,7 @@ FROM centos:7
 RUN yum -y install openssh-server 
 
 # Create user and configure password, home dir
-RUN useradd remote-user && \
+RUN useradd remote_user && \
     echo "1234" | passwd remote_user --stdin && \
     mkdir /home/remote_user/.ssh && \
     chmod 700 /home/remote_user/.ssh
