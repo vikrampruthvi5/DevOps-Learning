@@ -1,0 +1,24 @@
+
+
+
+Docker Jenkins lo9gin
+5cf7c450e8184e49ae484579674902e6
+/var/jenkins_home/secrets/initialAdminPassword
+
+
+
+http://54.242.111.89:8080/
+
+
+Remote_Test_Build
+Token : jenkins2021
+
+http://54.242.111.89:8080/job/Remote_Test_Build/build?token=jenkins2021
+
+
+JIRA SETUP
+18.212.154.64
+http://18.212.154.64:8080/secure/WelcomeToJIRA.jspa
+
+
+yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo

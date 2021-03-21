@@ -1,0 +1,3 @@
+Installation
+------------
+Ansible cfg file : https://raw.githubusercontent.com/linuxacademy/content-deploying-to-aws-ansible-terraform/master/aws_la_cloudplayground_version/ansible.cfg
