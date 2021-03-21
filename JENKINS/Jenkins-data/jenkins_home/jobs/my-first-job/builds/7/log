@@ -1,0 +1,9 @@
+Started by user [8mha:////4IdXwygli1F7NO+Xk7ELh2tf0FHoRK521bSgG1RI0TpCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins6694702840376595071.sh
++ NAME=Vikram
++ date
++ echo Hello, Vikram. Current date is : Sun 21 Mar 2021 09:12:14 PM UTC
+Hello, Vikram. Current date is : Sun 21 Mar 2021 09:12:14 PM UTC
+Finished: SUCCESS

@@ -1,0 +1,8 @@
+Started by user [8mha:////4IdXwygli1F7NO+Xk7ELh2tf0FHoRK521bSgG1RI0TpCAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/my-first-job
+[my-first-job] $ /bin/sh -xe /tmp/jenkins2313752407990849956.sh
++ NAME = Vikram
+/tmp/jenkins2313752407990849956.sh: 2: /tmp/jenkins2313752407990849956.sh: NAME: not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE
